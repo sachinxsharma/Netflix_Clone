@@ -4,6 +4,17 @@ created Netflix clone using HTML,CSS & JS(littlebit) {For redirecting to the mai
 Thank You!! Hope you like it :)
 
 #ScreenShots 
+
+
+
+
+
+
+
+
+
+
+
 <img width="906" alt="image" src="https://github.com/sachinxsharma/Netflix_Clone/assets/117962612/c2a1a769-a39f-431f-89af-eb79a589df81">
 
 <img width="904" alt="image" src="https://github.com/sachinxsharma/Netflix_Clone/assets/117962612/c9d67605-364e-4ec9-9c41-2ee588ff388c">
