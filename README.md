@@ -1,5 +1,7 @@
 # netflix_clone
-#OverView 
+#OVERVIEW
+
+
 created Netflix clone using HTML,CSS & JS(littlebit) {For redirecting to the main page after login or signup} add images not a video .. that's a basic frontend porject need to upgrade this project soon will use React.js. 
 Thank You!! Hope you like it :)
 
